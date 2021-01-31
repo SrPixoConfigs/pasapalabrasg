@@ -18,7 +18,7 @@ var words = [
 	new Word(13, "N", "Contiene la N:", " Perteneciente o relativo a la electrónica", "Electrónico"),
 	new Word(14, "O", "Contiene la O:", " Recompensa, galardón o remuneración que se da por algún mérito o servicio.", "Premio"),
 	new Word(15, "P", "Empieza por P:", " Calzado de lona, con suela de esparto, cáñamo o goma, que se sujeta al pie por presión o con unas cintas que se atan al tobillo.", "Phishing"),
-	new Word(16, "Q", "Empieza por Q:", " Que se puede romper fácilmente.", "Que"),
+	new Word(16, "Q", "Empieza por Q:", " Introduce una oración subordinada sustantiva.", "Que"),
 	new Word(17, "R", "Empieza por R:", " Opinión o consideración en que se tiene a alguien o algo.", "Reputación"),
 	new Word(18, "S", "Empieza por S:", " Término anglosajón que se emplea familiarmente para referirse a las estafas por medios electrónicos", "Scamming"),
 	new Word(19, "T", "Empieza por T:", " Siglas de Tecnologías de Informacion y de la Comunicación", "TICS"),
