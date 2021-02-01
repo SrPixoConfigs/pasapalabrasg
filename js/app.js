@@ -17,7 +17,7 @@ var words = [
 	new Word(12, "M", "Empieza por M:", " Considerarse a su mismo como una marca comercial y tenerque publicitarse.", "Marca personal"),
 	new Word(13, "N", "Contiene la N:", " Perteneciente o relativo a la electrónica", "Electrónico"),
 	new Word(14, "O", "Contiene la O:", " Recompensa, galardón o remuneración que se da por algún mérito o servicio.", "Premio"),
-	new Word(15, "P", "Empieza por P:", " Calzado de lona, con suela de esparto, cáñamo o goma, que se sujeta al pie por presión o con unas cintas que se atan al tobillo.", "Phishing"),
+	new Word(15, "P", "Empieza por P:", " Estafa que tiene como objetivo obtener a través de internet datos privados de los usuarios, especialmente para acceder a sus cuentas o datos bancarios.", "Phishing"),
 	new Word(16, "Q", "Empieza por Q:", " Accion de identificar a una persona en un mensaje en una red social", "Etiquetar"),
 	new Word(17, "R", "Empieza por R:", " Opinión o consideración en que se tiene a alguien o algo.", "Reputación"),
 	new Word(18, "S", "Empieza por S:", " Término anglosajón que se emplea familiarmente para referirse a las estafas por medios electrónicos", "Scamming"),
